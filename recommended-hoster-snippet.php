@@ -1,5 +1,4 @@
 <?php 
-<?php 
 
 /**
  * Fix Download limit this is effectively Unlimited could just return a number i.e 100.
